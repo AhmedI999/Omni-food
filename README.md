@@ -1,1 +1,1 @@
-Site is a vailable on https://omnifood-aibrahim.netlify.app/
+Site is a vailable at https://omnifood-aibrahim.netlify.app/
